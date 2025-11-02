@@ -1,0 +1,36 @@
+export const githubConfig = {
+  username: 'devxsubh',
+  apiUrl: 'https://github-contributions-api.jogruber.de/v4',
+  title: 'GitHub Activity',
+  subtitle: 'coding journey over the past year',
+  fontSize: 14,
+  maxLevel: 4,
+  theme: {
+    light: ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39'],
+    dark: ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353'],
+  },
+  months: [
+    'Jan',
+    'Feb',
+    'Mar',
+    'Apr',
+    'May',
+    'Jun',
+    'Jul',
+    'Aug',
+    'Sep',
+    'Oct',
+    'Nov',
+    'Dec',
+  ],
+  weekdays: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+  totalCountLabel: '{{count}} contributions in the last year',
+  loadingState: {
+    description: 'Loading your GitHub activity...',
+  },
+  errorState: {
+    title: 'GitHub Activity Unavailable',
+    description: 'Unable to fetch contribution data. This might be due to API rate limits or network issues.',
+    buttonText: 'View on GitHub',
+  },
+};
