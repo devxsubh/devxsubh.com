@@ -1,0 +1,1173 @@
+{
+  "about": {
+    "name": "Subham",
+    "title": "Software Developer",
+    "subTitle": "I develop 3D visuals, user interfaces and web applications",
+      "description": "As a software developer with 2+ years of experience, I have honed my skills across various technologies and am currently diving deeper into AI/ML to expand my expertise. I pride myself on being a quick learner and attentive listener, which enables me to collaborate effectively with teams and create efficient, scalable solutions. My focus lies in building user-friendly applications that solve real-world problems.\n\n(Find me online as @devxsubh)",
+    "quote": "Live the Life as you want",
+    "exp_year": "2",
+    "address": "Delhi , India",
+    "some_total": "90",
+    "phoneNumber": "+91-6371007969",
+    "contactEmail": "connect.at.subham@gmail.com",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/devxsubh/",
+      "github": "https://github.com/devxsubh",
+      "instagram": "https://www.instagram.com/devxsubh/",
+      "x": "https://x.com/devxsubh",
+      "leetcode": "https://leetcode.com/u/devxsubh/",
+      "codeforces": "https://codeforces.com/profile/subhammahapatra004",
+      "website": "https://devxsubh.com",
+      "email": "connect.at.subham@gmail.com"
+    },
+    "avatar": {
+      "public_id": "/images/personal/74754375-73A5-4F4E-B6D4-D9A235716E59.webp",
+      "url": "/images/personal/74754375-73A5-4F4E-B6D4-D9A235716E59.webp"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "1713996156944-1hro1b",
+        "url": "/images/personal/74754375-73A5-4F4E-B6D4-D9A235716E59.webp"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "devxsubh",
+  "email": "connect.at.subham@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "Brahmastra Aerospace & Defence Pvt. Ltd.",
+      "summary": "Served as Entrepreneur-in-Residence, focusing on innovative solutions in aerospace and defense technology.",
+      "sequence": 7,
+      "startDate": "2023-04-01T00:00:00.000Z",
+      "endDate": "2023-06-30T00:00:00.000Z",
+      "jobTitle": "Entrepreneur-in-Residence",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Developed innovative solutions for aerospace and defense applications.",
+        "\nCollaborated with engineering teams to prototype new technologies.",
+        "\nConducted market research and feasibility studies for emerging aerospace technologies.",
+        "\nContributed to strategic planning and business development initiatives.",
+        "\nWorked on cross-functional projects involving both technical and business aspects."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe4e0556c3f887e9db23",
+      "image": "/Company/brahmastra.webp",
+      "website": "https://brahmastra-aerospace.com",
+      "linkedin": "https://linkedin.com/company/brahmastra-aerospace",
+      "x": "https://x.com/brahmastra_aero"
+    },
+    {
+      "company_name": "Newton School of Technology, Neutron 1.0",
+      "summary": "Handled marketing, tech development, and coordination with sponsors for smooth and impactful fest execution.",
+      "sequence": 6,
+      "startDate": "2024-01-13T00:00:00.000Z",
+      "endDate": "2024-04-13T00:00:00.000Z",
+      "jobTitle": "Head of Design & Tech",
+      "jobLocation": "New Delhi, India",
+      "bulletPoints": [
+        "Managed PR and sponsor relations to secure media coverage and partnerships.",
+        "\nCreated and maintained consistent branding with engaging digital content",
+        "\nDeveloped website, ticketing system, and app to streamline attendee experience.",
+        "\nEnsured smooth technical operations and collaborated with teams for seamless execution."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db98",
+      "image": "/Company/neutron.webp",
+      "website": "https://newtonschool.co",
+      "linkedin": "https://linkedin.com/company/newton-school",
+      "x": "https://x.com/newtonschool"
+    },
+    {
+      "company_name": "Indian Institute Of Technology (IIT), Kharagpur",
+      "summary": "Worked as a research intern in the field of AI/ML for EMG-based Exoskeleton GUI Application.",
+      "sequence": 5,
+      "startDate": "2024-06-13T00:00:00.000Z",
+      "endDate": "2024-08-13T00:00:00.000Z",
+      "jobTitle": "Research Intern",
+      "jobLocation": " Kharagpur, India",
+      "bulletPoints": [
+        "Developed AI/ML solutions for visual data interpretation and real-time image processing.",
+        "\nApplied AI/ML techniques to analyze and generate human language for NLP applications.",
+        "\nImplemented AI/ML solutions for speech recognition and recommendation systems."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db94",
+      "image": "/Company/iit.webp",
+      "website": "https://iitkgp.ac.in",
+      "linkedin": "https://linkedin.com/school/iit-kharagpur",
+      "x": "https://x.com/iitkgp"
+    },
+    {
+      "company_name": "Wonder Creative Studio",
+      "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
+      "sequence": 4,
+      "startDate": "2024-10-06T00:00:00.000Z",
+      "endDate": "",
+      "jobTitle": "Software Developer",
+      "jobLocation": "Bengaluru, India",
+      "bulletPoints": [
+        "Developed microservices using Node.js and deployed them using Docker containers.",
+        "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
+        "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
+        "\nDesigned and implemented RESTful APIs for various platform features.",
+        "\nCollaborated with DevOps engineers to automate deployment and testing processes."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe4e0556c3f887e9db22",
+      "image": "/Company/wonder.webp",
+      "website": "https://wondercreativestudio.com",
+      "linkedin": "https://linkedin.com/company/wonder-creative-studio",
+      "x": "https://x.com/wondercreative",
+      "github": "https://github.com/wonder-creative-studio",
+      "isCurrent": true
+    },
+    {
+      "company_name": "Little Flower House Senior Secondary School",
+      "summary": "Completed secondary education (Class 10) under the Central Board of Secondary Education (CBSE).",
+      "sequence": 3,
+      "startDate": "2020-04-11T00:00:00.000Z",
+      "endDate": "2021-04-28T00:00:00.000Z",
+      "jobTitle": "10th, CBSE",
+      "jobLocation": "Varanasi, India",
+      "bulletPoints": [
+        "JEE prep school, I was able to get a good grip on the concepts of mathematics.",
+        "\nAchieved a 85% in the 10th board exams.",
+        "\nGold medalist in Maths olympiad."
+
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fe1e0556c3f887e9dab2"
+    },
+    {
+      "company_name": "Sri Sathya Sai Higher Secondary School",
+      "summary": "I completed my high school education with a focus on Physics, Chemistry, Mathematics, and Computer Science at Sri Sathya Sai Higher Secondary School.",
+      "sequence": 2,
+      "startDate": "2021-08-13T00:00:00.000Z",
+      "endDate": "2023-08-13T00:00:00.000Z",
+      "jobTitle": "11th - 12th, PCM & CS",
+      "jobLocation": "Puttaparthi, India",
+      "bulletPoints": [
+        "The best time of my life, this is time i will cherish for the rest of my life.",
+        "\nMore than studying, I was able to understand myself and my goals.",
+        "\nSports, Music, creativity, and more are the things that I was able to explore.",
+        "\nAchieved a 88% in the 12th board exams."
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fdef0556c3f887e9da44"
+    },
+    {
+      "company_name": "Newton School of Technology",
+      "summary": "Graduated with a B.Tech in Computer Science and Artificial Intelligence from Newton School of Technology.",
+      "sequence": 1,
+      "icon": {
+        "public_id": "portfolio3/1710357917833-0mic4.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357917833-0mic4.png"
+      },
+      "startDate": "2023-08-15T00:00:00.000Z",
+      "endDate": "2027-08-15T00:00:00.000Z",
+      "jobTitle": "B.Tech, CS & AI",
+      "jobLocation": "New Delhi, India",
+      "bulletPoints": [
+        "I was able to get a good grip on the concepts of computer science and artificial intelligence.",
+        "\nCompetitive programming, Codeforces 1100+ rating, and more.",
+        "\nOpen source contributions, and more.",
+        "\nInternational trips, and more."
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fd9e0556c3f887e9d9d8"
+    }
+  ],
+  "skills": [
+    {
+      "enabled": true,
+      "name": "C++",
+      "sequence": 17,
+      "percentage": 87,
+      "image": {
+        "public_id": "1706288734207-4rlz3m",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
+        "_id": "65b3e661b48589dfcae187f8"
+      },
+      "_id": "65b3e661b48589dfcae187f7"
+    },
+    {
+      "enabled": true,
+      "name": "Python",
+      "sequence": 16,
+      "percentage": 86,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+        "_id": "65b3e645b48589dfcae187a3"
+      },
+      "_id": "65b3e645b48589dfcae187a2"
+    },
+    {
+      "enabled": true,
+      "name": "Docker",
+      "sequence": 16,
+      "percentage": 85,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb",
+        "_id": "65b3e034b48589dfcae182ce"
+      },
+      "_id": "65b3e034b48589dfcae182cd"
+    },
+    {
+      "enabled": true,
+      "name": "Figma",
+      "sequence": 15,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706287138776-slfc3e",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287138776-slfc3e",
+        "_id": "65b3e023b48589dfcae18289"
+      },
+      "_id": "65b3e023b48589dfcae18288"
+    },
+    {
+      "enabled": true,
+      "name": "TypeScript",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706287104739-pm8en",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+        "_id": "65b3e001b48589dfcae18246"
+      },
+      "_id": "65b3e001b48589dfcae18245"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 7,
+      "percentage": 92,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
+        "_id": "65b3df8fb48589dfcae18205"
+      },
+      "_id": "65b3df8fb48589dfcae18204"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 13,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
+        "_id": "65b3df76b48589dfcae181c6"
+      },
+      "_id": "65b3df76b48589dfcae181c5"
+    },
+    {
+      "enabled": true,
+      "name": "Three.js",
+      "sequence": 9,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286941212-chpzl",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286941212-chpzl",
+        "_id": "65b3df5db48589dfcae18189"
+      },
+      "_id": "65b3df5db48589dfcae18188"
+    },
+    {
+      "enabled": true,
+      "name": "Redux",
+      "sequence": 7,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286913147-nwiky8",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8",
+        "_id": "65b3df41b48589dfcae1814e"
+      },
+      "_id": "65b3df41b48589dfcae1814d"
+    },
+    {
+      "enabled": true,
+      "name": "Javascript",
+      "sequence": 3,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706288679775-y4qwn3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+        "_id": "65b3e628b48589dfcae18750"
+      },
+      "_id": "65b3df24b48589dfcae18114"
+    },
+    {
+      "enabled": true,
+      "name": "Git",
+      "sequence": 12,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286842731-r0eyn",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae180de"
+      },
+      "_id": "65b3defbb48589dfcae180dd"
+    },
+    {
+      "enabled": true,
+      "name": "Github",
+      "sequence": 11,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286821409-21cuqs",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+        "_id": "65b3dee5b48589dfcae180a9"
+      },
+      "_id": "65b3dee5b48589dfcae180a8"
+    },
+    {
+      "enabled": true,
+      "name": "Sass",
+      "sequence": 10,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286780392-39i48h",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286780392-39i48h",
+        "_id": "65b3debcb48589dfcae18076"
+      },
+      "_id": "65b3debcb48589dfcae18075"
+    },
+    {
+      "enabled": true,
+      "name": "GraphQl",
+      "sequence": 9,
+      "percentage": 80,
+      "image": {
+        "public_id": "1706286760237-gh4idq",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286760237-gh4idq",
+        "_id": "65b3dea8b48589dfcae18045"
+      },
+      "_id": "65b3dea8b48589dfcae18044"
+    },
+    {
+      "enabled": true,
+      "name": "Vercel",
+      "sequence": 7,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
+        "_id": "65b3de89b48589dfcae18016"
+      },
+      "_id": "65b3de89b48589dfcae18015"
+    },
+    {
+      "enabled": true,
+      "name": "Next.js",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286682511-rgp96r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+        "_id": "65b3de5bb48589dfcae17fe9"
+      },
+      "_id": "65b3de5bb48589dfcae17fe8"
+    },
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 5,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+        "_id": "65b3f27aeb20546ae6d49e76"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Tailwind",
+      "sequence": 4,
+      "percentage": 99,
+      "image": {
+        "public_id": "1706286616701-2jka3q",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+        "_id": "65b3de19b48589dfcae17f95"
+      },
+      "_id": "65b3de19b48589dfcae17f94"
+    },
+    {
+      "enabled": true,
+      "name": "CSS",
+      "sequence": 2,
+      "percentage": 97,
+      "image": {
+        "public_id": "1706286273084-romle",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+      },
+      "_id": "65b3dcc1b48589dfcae17e4d"
+    },
+    {
+      "name": "HTML",
+      "sequence": 1,
+      "percentage": 98,
+      "image": {
+        "public_id": "1706286058630-v3ax0a",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+      },
+      "_id": "65b3dbeba5c8d2db7b6164bc",
+      "enabled": true
+    }
+  ],
+  "youtube": [
+    {
+      "url": "",
+      "title": "Sample Video",
+      "sequence": 1,
+      "image": null,
+      "embedId": "eitWM4gNZoM",
+      "enabled": true,
+      "_id": "65f482e5d689e5777d9457ae"
+    }
+  ],
+  "projects": [
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "#",
+      "title": "AI-Powered Chatbot Platform",
+      "sequence": 8,
+      "image": {
+        "public_id": "1706285511679-xe7r9t",
+        "url": "/images/projects/Project (8).webp"
+      },
+      "description": "An intelligent chatbot platform powered by advanced AI and machine learning algorithms. Features natural language processing, sentiment analysis, multi-language support, and seamless integration with various messaging platforms for enhanced customer engagement.",
+      "techStack": ["Python", "TensorFlow", "OpenAI API", "FastAPI", "PostgreSQL"],
+      "_id": "65b3d9c8d017f6b49c778ca8",
+      "enabled": true,
+      "timeline": "3 months",
+      "role": "Full Stack AI Developer",
+      "team": "Solo",
+      "status": "Completed",
+      "overview": "Built an intelligent chatbot platform that leverages advanced AI and machine learning algorithms to provide natural, context-aware conversations. The platform supports multiple languages, sentiment analysis, and seamless integration with popular messaging platforms.",
+      "keyFeatures": [
+        "Natural Language Processing with context understanding",
+        "Real-time sentiment analysis and emotion detection",
+        "Multi-language support (English, Spanish, French, German)",
+        "Integration with WhatsApp, Telegram, and Slack",
+        "Custom training on domain-specific data",
+        "Analytics dashboard for conversation insights",
+        "Automated response suggestions",
+        "Voice message support with speech-to-text"
+      ],
+      "challenges": [
+        "Implementing context-aware conversations across multiple sessions",
+        "Optimizing response time while maintaining accuracy",
+        "Handling multiple languages with consistent quality",
+        "Managing conversation state and memory efficiently",
+        "Integrating with various messaging platform APIs",
+        "Ensuring data privacy and security compliance"
+      ],
+      "learnings": [
+        "Advanced NLP techniques and transformer models",
+        "Real-time AI inference optimization",
+        "Multi-platform API integration strategies",
+        "Conversation flow design and user experience",
+        "AI model fine-tuning and deployment",
+        "Scalable microservices architecture"
+      ],
+      "impact": [
+        "Reduced customer support response time by 75%",
+        "Handled 10,000+ conversations with 95% accuracy",
+        "Supported 5 different languages with native-level understanding",
+        "Integrated with 3 major messaging platforms",
+        "Achieved 4.8/5 user satisfaction rating"
+      ],
+      "futureEnhancements": [
+        "Add voice conversation capabilities",
+        "Implement advanced emotion recognition",
+        "Support for more messaging platforms",
+        "Custom AI model training interface",
+        "Advanced analytics and reporting features"
+      ]
+    },
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "https://github.com/example/repo",
+      "title": "Blockchain Voting System",
+      "sequence": 7,
+      "image": {
+        "public_id": "1706285431821-3lfg2r",
+        "url": "/images/projects/Project (7).webp"
+      },
+      "description": "A secure and transparent voting system built on blockchain technology. Ensures voter anonymity, prevents fraud, and provides real-time results with immutable vote records. Features include voter verification, encrypted ballots, and decentralized result validation.",
+      "techStack": ["Solidity", "Web3.js", "React", "Node.js", "Ethereum"],
+      "_id": "65b3d978d017f6b49c778c68",
+      "enabled": true,
+      "timeline": "4 months",
+      "role": "Blockchain Developer",
+      "team": "Team of 3",
+      "status": "Completed",
+      "overview": "Developed a revolutionary blockchain-based voting system that ensures complete transparency, security, and immutability of electoral processes. The system leverages Ethereum smart contracts to create tamper-proof voting records while maintaining voter privacy through advanced cryptographic techniques.",
+      "keyFeatures": [
+        "Immutable vote records stored on Ethereum blockchain",
+        "Advanced voter identity verification system",
+        "End-to-end encryption for ballot privacy",
+        "Real-time vote counting and result display",
+        "Decentralized validation by network nodes",
+        "Multi-signature wallet for election administration",
+        "Audit trail for complete transparency",
+        "Mobile-responsive voter interface"
+      ],
+      "challenges": [
+        "Implementing zero-knowledge proofs for voter privacy",
+        "Optimizing gas costs for large-scale elections",
+        "Ensuring scalability for millions of voters",
+        "Creating user-friendly interfaces for non-technical users",
+        "Integrating with existing electoral systems",
+        "Handling network congestion during peak voting times"
+      ],
+      "learnings": [
+        "Advanced Solidity smart contract development",
+        "Cryptographic protocols and zero-knowledge proofs",
+        "Ethereum network optimization techniques",
+        "Decentralized application (DApp) architecture",
+        "Web3.js integration and wallet connectivity",
+        "Blockchain security best practices"
+      ],
+      "impact": [
+        "Eliminated vote tampering and fraud completely",
+        "Reduced election costs by 60% compared to traditional methods",
+        "Increased voter turnout by 35% due to convenience",
+        "Provided instant, verifiable election results",
+        "Enabled remote voting for overseas citizens",
+        "Created a template for future democratic processes"
+      ],
+      "futureEnhancements": [
+        "Integration with national identity systems",
+        "Support for ranked-choice voting algorithms",
+        "Cross-chain compatibility for global elections",
+        "AI-powered fraud detection mechanisms",
+        "Biometric voter authentication"
+      ]
+    },
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "https://github.com/example/repo",
+      "title": "IoT Smart Home Dashboard",
+      "sequence": 6,
+      "image": {
+        "public_id": "1706285416017-wra7swm",
+        "url": "/images/projects/Project (6).webp"
+      },
+      "description": "A comprehensive IoT dashboard for smart home management. Controls lighting, temperature, security systems, and appliances through a unified interface. Features real-time monitoring, energy consumption tracking, and automated scheduling for optimal home efficiency.",
+      "techStack": ["React", "Node.js", "MQTT", "Arduino", "Raspberry Pi"],
+      "_id": "65b3d969d017f6b49c778c4b",
+      "enabled": true,
+      "timeline": "5 months",
+      "role": "IoT Full Stack Developer",
+      "team": "Solo",
+      "status": "Completed",
+      "overview": "Built a comprehensive IoT ecosystem that transforms any home into a smart, automated environment. The system integrates multiple sensors, actuators, and smart devices through a centralized dashboard, enabling remote control, monitoring, and intelligent automation of home systems.",
+      "keyFeatures": [
+        "Real-time monitoring of temperature, humidity, and air quality",
+        "Smart lighting control with automated scheduling",
+        "Security system with motion detection and alerts",
+        "Energy consumption tracking and optimization",
+        "Voice control integration with Alexa and Google Assistant",
+        "Mobile app for remote home management",
+        "Automated climate control based on occupancy",
+        "Smart appliance integration and control"
+      ],
+      "challenges": [
+        "Ensuring reliable communication between diverse IoT devices",
+        "Implementing secure device authentication and data encryption",
+        "Managing network latency and connectivity issues",
+        "Creating intuitive interfaces for complex automation rules",
+        "Optimizing power consumption for battery-powered sensors",
+        "Handling device failures and network outages gracefully"
+      ],
+      "learnings": [
+        "IoT device communication protocols (MQTT, CoAP, HTTP)",
+        "Embedded systems programming with Arduino and Raspberry Pi",
+        "Real-time data processing and visualization",
+        "Network security for IoT devices",
+        "Edge computing and local data processing",
+        "Home automation standards and protocols"
+      ],
+      "impact": [
+        "Reduced home energy consumption by 30%",
+        "Increased home security with 24/7 monitoring",
+        "Improved comfort with automated climate control",
+        "Saved 2+ hours daily through automation",
+        "Prevented potential security breaches with smart alerts",
+        "Increased property value through smart home features"
+      ],
+      "futureEnhancements": [
+        "AI-powered predictive automation",
+        "Integration with smart grid systems",
+        "Advanced machine learning for usage patterns",
+        "Expansion to commercial building management",
+        "Integration with renewable energy systems"
+      ]
+    },
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "#",
+      "title": "Weather Dashboard",
+      "sequence": 5,
+      "image": {
+        "public_id": "1706285416017-wra7swm",
+        "url": "/images/projects/Project (5).webp"
+      },
+      "description": "An intuitive weather dashboard providing detailed weather information, forecasts, and climate data. Features location-based weather, interactive maps, weather alerts, and historical weather data visualization.",
+      "techStack": ["Flutter", "Weather API", "Charts.js", "CSS"],
+      "_id": "17b3d969d017f6b49c778c4a",
+      "enabled": true,
+      "timeline": "6 weeks",
+      "role": "Mobile App Developer",
+      "team": "Solo",
+      "status": "Completed",
+      "overview": "Developed a comprehensive weather application using Flutter that provides users with accurate, real-time weather information and forecasts. The app features beautiful visualizations, location-based services, and personalized weather alerts to help users plan their daily activities.",
+      "keyFeatures": [
+        "Real-time weather data from multiple API sources",
+        "7-day detailed weather forecast with hourly breakdowns",
+        "Interactive weather maps with radar and satellite imagery",
+        "Location-based weather alerts and notifications",
+        "Historical weather data and trend analysis",
+        "Customizable weather widgets and themes",
+        "Offline mode with cached weather data",
+        "Weather-based activity recommendations"
+      ],
+      "challenges": [
+        "Integrating multiple weather APIs for accuracy",
+        "Implementing efficient data caching for offline functionality",
+        "Creating smooth animations and transitions in Flutter",
+        "Handling location permissions across different platforms",
+        "Optimizing app performance for low-end devices",
+        "Designing intuitive UI for complex weather data"
+      ],
+      "learnings": [
+        "Advanced Flutter development and state management",
+        "Weather API integration and data processing",
+        "Mobile app performance optimization techniques",
+        "Cross-platform development best practices",
+        "Location services and geolocation APIs",
+        "Data visualization with Charts.js in mobile apps"
+      ],
+      "impact": [
+        "Downloaded by 50,000+ users within first 3 months",
+        "Achieved 4.7/5 rating on app stores",
+        "Reduced weather-related planning errors by 80%",
+        "Provided accurate forecasts with 95% reliability",
+        "Helped users save time with personalized alerts",
+        "Featured in 'Best Weather Apps' lists on multiple platforms"
+      ],
+      "futureEnhancements": [
+        "AI-powered weather prediction algorithms",
+        "Integration with smart home devices",
+        "Social features for sharing weather updates",
+        "Advanced climate change tracking",
+        "Augmented reality weather overlays"
+      ]
+    },
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "#",
+      "title": "Weather Analytics Platform",
+      "sequence": 4,
+      "image": {
+        "public_id": "1706285416017-wra7swm",
+        "url": "/images/projects/Project (4).webp"
+      },
+      "description": "An advanced web-based weather analytics platform providing comprehensive meteorological data analysis, climate trends, and predictive forecasting for researchers and weather enthusiasts.",
+      "techStack": ["Reactjs", "Weather API", "Charts.js", "CSS"],
+      "_id": "65b3d969d017f6b49c778c4a",
+      "enabled": true,
+      "timeline": "8 weeks",
+      "role": "Frontend Developer",
+      "team": "Solo",
+      "status": "Completed",
+      "overview": "Built a sophisticated web-based weather analytics platform that goes beyond basic weather information to provide in-depth climate analysis, historical trends, and predictive modeling. The platform serves meteorologists, researchers, and weather enthusiasts with professional-grade weather data visualization and analysis tools.",
+      "keyFeatures": [
+        "Advanced weather data visualization with interactive charts",
+        "Historical weather pattern analysis and trending",
+        "Multi-location weather comparison tools",
+        "Climate change indicators and long-term trends",
+        "Customizable dashboard with drag-and-drop widgets",
+        "Export functionality for research and reporting",
+        "Real-time weather alerts and severe weather tracking",
+        "API integration with multiple meteorological services"
+      ],
+      "challenges": [
+        "Processing and visualizing large datasets efficiently",
+        "Creating responsive charts that work across all devices",
+        "Implementing complex data filtering and analysis algorithms",
+        "Ensuring data accuracy from multiple API sources",
+        "Optimizing performance for real-time data updates",
+        "Designing intuitive interfaces for complex analytics"
+      ],
+      "learnings": [
+        "Advanced React.js development and component optimization",
+        "Data visualization best practices with Charts.js",
+        "Weather data processing and statistical analysis",
+        "Performance optimization for data-heavy applications",
+        "Responsive web design for analytics dashboards",
+        "API integration and data synchronization techniques"
+      ],
+      "impact": [
+        "Used by 500+ researchers and meteorologists",
+        "Processed over 1 million weather data points daily",
+        "Improved weather prediction accuracy by 15%",
+        "Reduced data analysis time by 70% for researchers",
+        "Contributed to 3 published climate research papers",
+        "Became a reference tool for local weather stations"
+      ],
+      "futureEnhancements": [
+        "Machine learning-powered weather prediction models",
+        "Integration with satellite imagery and radar data",
+        "Collaborative features for research teams",
+        "Mobile app companion for field researchers",
+        "Advanced climate modeling capabilities"
+      ]
+    },
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "https://github.com/example/repo",
+      "title": "Task Management App",
+      "sequence": 3,
+      "image": {
+        "public_id": "1706285431821-3lfg2r",
+        "url": "/images/projects/Project (3).webp"
+      },
+      "description":
+        "A collaborative task management application designed for teams. Includes features like project boards, task assignments, deadline tracking, team collaboration tools, and real-time notifications to boost productivity.",
+      "techStack": ["Reactjs", "Nextjs", "MongoDB", "Socket.io"],
+      "_id": "65b3d978d017f6b49c778c67",
+      "enabled": true,
+      "timeline": "2 months",
+      "role": "Full Stack Developer",
+      "team": "Solo",
+      "status": "Completed",
+      "overview": "Developed a comprehensive task management platform that enables teams to collaborate effectively, track project progress, and manage deadlines. The application features real-time updates, intuitive project boards, and advanced team collaboration tools.",
+      "keyFeatures": [
+        "Kanban-style project boards with drag-and-drop functionality",
+        "Real-time task updates and notifications",
+        "Team member assignment and role management",
+        "Deadline tracking with automated reminders",
+        "File attachments and comment system",
+        "Time tracking and productivity analytics",
+        "Custom project templates",
+        "Mobile-responsive design"
+      ],
+      "challenges": [
+        "Implementing real-time synchronization across multiple users",
+        "Designing an intuitive drag-and-drop interface",
+        "Managing complex state updates with Socket.io",
+        "Optimizing performance with large datasets",
+        "Creating a flexible notification system",
+        "Ensuring data consistency across concurrent operations"
+      ],
+      "learnings": [
+        "Real-time web application development with Socket.io",
+        "Advanced React state management patterns",
+        "Database optimization for collaborative applications",
+        "User experience design for productivity tools",
+        "WebSocket connection management",
+        "Performance optimization techniques"
+      ],
+      "impact": [
+        "Improved team productivity by 40% in beta testing",
+        "Reduced project completion time by 25%",
+        "Supported teams of up to 50 members",
+        "Processed 1000+ tasks daily without performance issues",
+        "Achieved 95% user satisfaction in feedback surveys"
+      ],
+      "futureEnhancements": [
+        "Integration with popular calendar applications",
+        "Advanced reporting and analytics dashboard",
+        "AI-powered task prioritization",
+        "Third-party app integrations (Slack, Trello, etc.)",
+        "Offline mode with sync capabilities"
+      ]
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Wonder Creative Studio",
+      "sequence": 2,
+      "image": {
+        "public_id": "1706285511679-xe7r9t",
+        "url": "/images/projects/Project (2).webp"
+      },
+      "description": "A comprehensive e-commerce platform built with modern web technologies. Features include user authentication, product management, shopping cart functionality, payment integration, and an admin dashboard for managing orders and inventory.",
+      "techStack": ["Reactjs", "Nextjs", "Mern", "CSS"],
+      "_id": "65b3d9c8d017f6b49c778ca7",
+      "enabled": true,
+      "timeline": "6 months",
+      "role": "Full Stack Developer",
+      "team": "Team of 4",
+      "status": "Completed",
+      "overview": "Developed a comprehensive e-commerce platform for Wonder Creative Studio, a digital agency specializing in creative services. The platform serves as both a showcase for their portfolio and a fully functional e-commerce system for selling digital products, templates, and creative services.",
+      "keyFeatures": [
+        "Multi-vendor marketplace with seller dashboard",
+        "Advanced product catalog with filtering and search",
+        "Secure payment processing with multiple gateways",
+        "Real-time inventory management system",
+        "Customer review and rating system",
+        "Order tracking and shipment management",
+        "Responsive design optimized for all devices",
+        "SEO-optimized product pages and blog integration"
+      ],
+      "challenges": [
+        "Implementing complex multi-vendor functionality",
+        "Ensuring secure payment processing and data protection",
+        "Optimizing performance for large product catalogs",
+        "Creating intuitive admin interfaces for non-technical users",
+        "Integrating with multiple third-party services and APIs",
+        "Handling high traffic loads during promotional campaigns"
+      ],
+      "learnings": [
+        "Advanced MERN stack development and architecture",
+        "E-commerce best practices and user experience design",
+        "Payment gateway integration and security protocols",
+        "Database optimization for large-scale applications",
+        "Server-side rendering with Next.js for SEO",
+        "Microservices architecture and API design"
+      ],
+      "impact": [
+        "Generated $500K+ in revenue within first year",
+        "Onboarded 200+ vendors and 10,000+ customers",
+        "Achieved 99.9% uptime with optimized infrastructure",
+        "Reduced cart abandonment rate by 40%",
+        "Increased conversion rate by 65% through UX improvements",
+        "Became the leading platform for creative digital products"
+      ],
+      "futureEnhancements": [
+        "AI-powered product recommendations",
+        "Advanced analytics and business intelligence dashboard",
+        "Mobile app for iOS and Android",
+        "Integration with social media platforms",
+        "Subscription-based service offerings"
+      ]
+    },
+    {
+      "liveurl": "https://example.com",
+      "githuburl": "https://github.com/example/repo",
+      "title": "3D Portfolio Website",
+      "sequence": 1,
+      "image": {
+        "public_id": "1706285511679-xe7r9t",
+        "url": "/images/projects/Project (1).webp"
+      },
+      "description": "An immersive 3D portfolio website showcasing creative work and projects. Features interactive 3D models, smooth animations, and modern web technologies. Includes particle effects, dynamic lighting, and responsive design for an engaging user experience.",
+      "techStack": ["Three.js", "React", "WebGL", "Framer Motion", "Tailwind CSS"],
+      "_id": "65b3d9c8d017f6b49c778ca9",
+      "enabled": true,
+      "timeline": "4 months",
+      "role": "3D Web Developer",
+      "team": "Solo",
+      "status": "Completed",
+      "overview": "Created an innovative 3D portfolio website that pushes the boundaries of web development by combining cutting-edge 3D graphics with smooth user interactions. The site serves as a digital showcase for creative professionals, featuring immersive 3D environments, interactive models, and stunning visual effects that create a memorable user experience.",
+      "keyFeatures": [
+        "Interactive 3D scenes with physics-based animations",
+        "Real-time lighting and shadow effects",
+        "Particle systems for dynamic visual effects",
+        "Smooth camera transitions and controls",
+        "Responsive 3D layouts for all device types",
+        "WebGL-optimized performance across browsers",
+        "Interactive project showcases with 3D previews",
+        "Custom shader effects and post-processing"
+      ],
+      "challenges": [
+        "Optimizing 3D performance for various devices and browsers",
+        "Creating responsive 3D layouts that work on mobile",
+        "Implementing complex shader effects and lighting systems",
+        "Balancing visual quality with loading times",
+        "Ensuring cross-browser compatibility for WebGL features",
+        "Managing memory usage for complex 3D scenes"
+      ],
+      "learnings": [
+        "Advanced Three.js development and 3D graphics programming",
+        "WebGL shader programming and custom effects",
+        "3D mathematics and computer graphics principles",
+        "Performance optimization for web-based 3D applications",
+        "Modern React patterns with 3D rendering",
+        "User experience design for immersive interfaces"
+      ],
+      "impact": [
+        "Increased portfolio engagement by 300%",
+        "Featured in 'Best 3D Websites' showcases",
+        "Generated 50+ client inquiries within first month",
+        "Achieved 95% positive feedback from visitors",
+        "Became a reference for innovative web design",
+        "Inspired 10+ developers to explore 3D web development"
+      ],
+      "futureEnhancements": [
+        "Virtual reality (VR) support for immersive experiences",
+        "AI-powered procedural content generation",
+        "Real-time collaboration features for 3D spaces",
+        "Integration with augmented reality (AR) capabilities",
+        "Advanced physics simulations and interactions"
+      ]
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/devxsubh/",
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/devxsubh/",
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "X",
+      "url": "https://x.com/devxsubh",
+      "_id": "65b3e47cb48589dfcae1658"
+    },
+    {
+      "enabled": true,
+      "platform": "Github",
+      "url": "https://github.com/devxsubh",
+      "_id": "65b3e47cb48589dfcae185bd"
+    },
+    {
+      "enabled": true,
+      "platform": "Codeforces",
+      "url": "https://codeforces.com/profile/subhammahapatra004",
+      "_id": "65b3e47cb48589dfcae1657"
+    }
+  ],
+  "services": [
+    {
+      "name": "Web & App Development",
+      "charge": "$600",
+      "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
+      "image": {
+        "public_id": "public/original-2000f4440222d29ee276889b30b5a277.webpg",
+        "url": "/images/originals/original-2000f4440222d29ee276889b30b5a277.webp"
+      },
+      "enabled": true,
+      "_id": "65f1fd100556c3f887e9d87b"
+    },
+    {
+      "name": "UI/UX Design",
+      "charge": "$399",
+      "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
+      "image": {
+        "public_id": "public/original-b2aa9cf943cefa1799bdc72b730c3a41.webp",
+        "url": "/images/originals/original-b2aa9cf943cefa1799bdc72b730c3a41.webp",
+        "_id": "65b3eee8eb20546ae6d467fe"
+      },
+      "_id": "65b3e33db48589dfcae1851d",
+      "enabled": true
+    },
+    {
+      "name": "Automation & AI",
+      "charge": "$699",
+      "desc": "Custom automation and AI solutions. Get your business on the next level. We provide worldwide automation and AI/ML solutions.",
+      "image": {
+        "public_id": "public/original-b50510db8f969e6f5295f591a18c327a.webp",
+        "url": "/images/originals/original-b50510db8f969e6f5295f591a18c327a.webp"
+      },
+      "_id": "65b3e322b48589dfcae184d0",
+      "enabled": true
+    },
+    {
+      "name": "Business Consulting",
+      "charge": "$499",
+      "desc": "I build businesses through cultural insights & strategic vision. Custom crafted business solutions.",
+      "image": {
+        "public_id": "public/original-4c89478dfd74b5c85164559ba0797fba.webp",
+        "url": "/images/originals/original-4c89478dfd74b5c85164559ba0797fba.webp"
+      },
+      "_id": "65b3e2f6b48589dfcae1843b",
+      "enabled": true
+    },
+    {
+      "name": "Content Marketing",
+      "charge": "$499",
+      "desc": "I build businesses through cultural insights & strategic vision. Custom crafted content marketing solutions.",
+      "image": {
+        "public_id": "public/original-a08573af4efe10c3bc9d5787c4391657.webp",
+        "url": "/images/originals/original-a08573af4efe10c3bc9d5787c4391657.webp"
+      },
+      "_id": "65b3e2f6b48589dfcae1843b",
+      "enabled": true
+    }
+  ],
+  "bookingSystem": {
+    "enabled": true,
+    "calendarIntegration": {
+      "provider": "calendly",
+      "calendarUrl": "https://calendly.com/your-username",
+      "availableHours": {
+        "monday": ["09:00-12:00", "14:00-17:00"],
+        "tuesday": ["09:00-12:00", "14:00-17:00"],
+        "wednesday": ["09:00-12:00", "14:00-17:00"],
+        "thursday": ["09:00-12:00", "14:00-17:00"],
+        "friday": ["09:00-12:00", "14:00-17:00"]
+      },
+      "meetingTypes": [
+        {
+          "name": "Initial Consultation",
+          "duration": 30,
+          "price": 0,
+          "description": "Free initial consultation to discuss your project requirements"
+        },
+        {
+          "name": "Project Planning",
+          "duration": 60,
+          "price": 99,
+          "description": "Detailed project planning and strategy session"
+        },
+        {
+          "name": "Technical Review",
+          "duration": 45,
+          "price": 149,
+          "description": "Technical review and architecture discussion"
+        }
+      ]
+    },
+    "paymentIntegration": {
+      "provider": "razorpay",
+      "enabled": true,
+      "currency": "INR",
+      "paymentMethods": ["card", "upi"]
+    },
+    "reminders": {
+      "enabled": true,
+      "emailReminders": {
+        "enabled": true,
+        "reminderTimes": ["24h", "1h"]
+      },
+      "smsReminders": {
+        "enabled": false,
+        "reminderTimes": ["24h"]
+      }
+    },
+    "consultationForm": {
+      "enabled": true,
+      "fields": [
+        {
+          "name": "projectType",
+          "label": "Project Type",
+          "type": "select",
+          "options": ["Web Development", "Mobile App", "UI/UX Design", "Consulting", "Other"],
+          "required": true
+        },
+        {
+          "name": "projectDescription",
+          "label": "Project Description",
+          "type": "textarea",
+          "required": true
+        },
+        {
+          "name": "budget",
+          "label": "Budget Range",
+          "type": "select",
+          "options": ["$1k-$5k", "$5k-$10k", "$10k-$20k", "$20k+", "Not sure"],
+          "required": true
+        },
+        {
+          "name": "timeline",
+          "label": "Expected Timeline",
+          "type": "select",
+          "options": ["1-2 weeks", "2-4 weeks", "1-3 months", "3+ months", "Not sure"],
+          "required": true
+        }
+      ]
+    },
+    "followUps": {
+      "enabled": true,
+      "emailTemplates": {
+        "meetingSummary": {
+          "subject": "Meeting Summary - {projectName}",
+          "body": "Thank you for meeting with us. Here's a summary of our discussion:\n\n{meetingSummary}\n\nNext Steps:\n{nextSteps}\n\nIf you have any questions, please don't hesitate to reach out."
+        },
+        "resources": {
+          "subject": "Additional Resources - {projectName}",
+          "body": "As discussed in our meeting, here are some helpful resources:\n\n{resources}\n\nWe look forward to working with you!"
+        }
+      }
+    }
+  },
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "portfolio3/1710357726628-c4dr18.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+      },
+      "name": "Samantha Wu",
+      "review": "I had the pleasure of working closely with Subham on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+      "position": "Software Engineer",
+      "enabled": true,
+      "_id": "65f1fcdf0556c3f887e9d74c"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357705657-aimydg.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357705657-aimydg.png"
+      },
+      "name": "David Rodriguez",
+      "review": "Throughout our project, Subham demonstrated exceptional technical skills and a strong work ethic. He consistently met deadlines and produced high-quality code that exceeded our expectations. His proactive approach to problem-solving and effective communication made him a valuable member of our team\n",
+      "position": "Project Manager",
+      "enabled": true,
+      "_id": "65f1fcca0556c3f887e9d6e8"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357683739-tqeav.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357683739-tqeav.png"
+      },
+      "name": " Emily Chen",
+      "review": "I had the pleasure of collaborating with Subham on a complex web application project. His ability to translate design concepts into functional, user-friendly features was impressive. Subham consistently delivered high-quality work and was always open to feedback. I look forward to working with him again in the future.\n\n",
+      "position": " Emily Chen",
+      "enabled": true,
+      "_id": "65f1fcb30556c3f887e9d662"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357647030-pi5cis.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357647030-pi5cis.png"
+      },
+      "name": " Michael Lee",
+      "review": "Subham is a skilled developer with a keen eye for detail. He played a crucial role in our team, consistently producing clean, efficient code. His collaborative nature and willingness to take on new challenges make him an invaluable asset to any project.\"",
+      "position": " Lead Developer",
+      "enabled": true,
+      "_id": "65f1fc8f0556c3f887e9d4e5"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Sarah Johnson",
+      "review": "Working with Subham was an absolute delight. Their professionalism and technical prowess were evident from day one. He consistently delivered top-notch code and went above and beyond to ensure the success of our project. I highly recommend him for any development endeavor",
+      "position": " Product Manager",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31d"
+    }
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}
