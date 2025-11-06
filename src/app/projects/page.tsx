@@ -100,10 +100,11 @@ const ProjectsPage: React.FC<ProjectsPageProps> = () => {
     <div className="min-h-screen mt-8 text-white">
       
       <Header social={portfolio.social_handles} />
-      <span className="blob absolute top-[20%] left-0 w-1/3 h-5/6 blur-[100px] -z-10" />
+
 
       {/* Header */}
       <div className="relative py-20 px-4 md:px-8">
+      <span className="blob absolute top-[20%] left-0 w-1/3 h-5/6 blur-[100px] -z-10" />
         <div className="max-w-7xl mx-auto">
           <SectionHeading className="mb-2">
             <SlideIn className="text-white/40">All</SlideIn>

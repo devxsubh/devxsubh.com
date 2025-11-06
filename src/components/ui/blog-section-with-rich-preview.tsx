@@ -138,8 +138,8 @@ function Blog() {
   return (
     <>
     <div className="max-w-6xl mx-auto py-20 lg:py-40">
-                  <span className="blob absolute top-[20%] left-0 w-1/3 h-5/6 blur-[100px] -z-10" />
       <div className="container mx-auto flex flex-col gap-14">
+      <span className="blob absolute top-[20%] left-0 w-1/3 h-5/6 blur-[100px] -z-10" />
         <div className="flex w-full flex-col sm:flex-row sm:justify-between sm:items-center gap-8">
           <h4 className="text-3xl md:text-5xl tracking-tighter max-w-xl font-regular">
             Latest articles
